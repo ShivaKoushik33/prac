@@ -1,0 +1,80 @@
+*{
+    padding:0px;
+    margin:0;
+}
+#main{
+    width:40%;
+    height: 700px;
+    border-left: 200px;
+    background-color:#E5E5E5 ;
+    border:solid 1px black;
+    border-radius:10px;
+    padding:10px;
+    margin-left: 35%;
+    margin-top: 20px;
+    color: #000000;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+#Submit{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+#text{
+    border-radius: 5px;
+}
+#registrationform{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.side{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.inpBox{
+    background-color:white;
+    /* background-color:#CCCCCC; */
+    width: 90%;
+    height:40px;
+    margin-top:8px;
+    margin-left:20px ;
+    font-size: 16px;
+}
+.inpBox:hover{
+    background-color: #BBBBBB;
+}
+.login1{
+    width:50%;
+    height: 500px;
+    border-left: 200px;
+    background-color:#E5E5E5 ;
+    border:solid 1px black;
+    border-radius:10px;
+    padding:10px;
+    margin-left: 27%;
+    margin-top: 180px;
+    color: #000000;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+.inp{
+    background-color:white;
+    width: 90%;
+    height:40px;
+    margin-top:20px;
+    margin-left:8px;
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.inp:hover{
+    background-color: #BBBBBB;
+
+}
